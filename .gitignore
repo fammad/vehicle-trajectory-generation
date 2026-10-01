@@ -1,0 +1,15 @@
+# data is too big for git, everyone keeps a local copy
+data/
+data_processed/
+maps/opendrive/
+outputs/
+
+# old version and tools we did not write
+_old_version/
+drone-dataset-tools/
+
+# system files
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
