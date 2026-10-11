@@ -1,0 +1,41 @@
+seed,method,E_h,sliced_wasserstein
+0,A: Unconstrained,9.810274e-02,0.096223
+0,B: Soft Correction,3.811309e-02,0.127766
+0,C: Hard Projection,1.013875e-07,0.153815
+0,D: Final Projection,1.518130e-07,0.095695
+1,A: Unconstrained,9.401343e-02,0.106174
+1,B: Soft Correction,3.821356e-02,0.131919
+1,C: Hard Projection,1.006722e-07,0.155585
+1,D: Final Projection,1.492798e-07,0.099123
+2,A: Unconstrained,9.365587e-02,0.075694
+2,B: Soft Correction,3.725073e-02,0.119280
+2,C: Hard Projection,1.054704e-07,0.139447
+2,D: Final Projection,1.497567e-07,0.076418
+3,A: Unconstrained,9.448798e-02,0.081201
+3,B: Soft Correction,3.767569e-02,0.112982
+3,C: Hard Projection,1.030266e-07,0.154460
+3,D: Final Projection,1.519024e-07,0.076463
+4,A: Unconstrained,9.388798e-02,0.084860
+4,B: Soft Correction,3.722270e-02,0.121896
+4,C: Hard Projection,9.942055e-08,0.149498
+4,D: Final Projection,1.496375e-07,0.082917
+5,A: Unconstrained,9.240341e-02,0.092890
+5,B: Soft Correction,3.719749e-02,0.116047
+5,C: Hard Projection,1.037121e-07,0.133697
+5,D: Final Projection,1.561046e-07,0.092966
+6,A: Unconstrained,9.173412e-02,0.076439
+6,B: Soft Correction,3.778959e-02,0.119944
+6,C: Hard Projection,1.012981e-07,0.132533
+6,D: Final Projection,1.501441e-07,0.065249
+7,A: Unconstrained,9.346303e-02,0.067656
+7,B: Soft Correction,3.785657e-02,0.140736
+7,C: Hard Projection,9.930134e-08,0.143570
+7,D: Final Projection,1.492798e-07,0.059168
+8,A: Unconstrained,9.757812e-02,0.089461
+8,B: Soft Correction,3.798394e-02,0.117798
+8,C: Hard Projection,9.858609e-08,0.141076
+8,D: Final Projection,1.511872e-07,0.088402
+9,A: Unconstrained,9.414589e-02,0.097528
+9,B: Soft Correction,3.789516e-02,0.146557
+9,C: Hard Projection,1.035333e-07,0.155886
+9,D: Final Projection,1.487434e-07,0.098340

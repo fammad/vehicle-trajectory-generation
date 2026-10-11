@@ -73,7 +73,7 @@ print("grid size:", road.shape, "| road cells:", road.sum())
 ### Cell 3 · Widen the road and fill holes
 
 ```python
-road = ndimage.binary_dilation(road, iterations=8)   # grow the road by 8 cells (about 1.5 m)
+road = ndimage.binary_dilation(road, iterations=8)   # grow the road by 8 cells (about 1.5 m); the final project uses 4 cells (0.8 m), see offline/03_road_and_rules.ipynb
 road = ndimage.binary_fill_holes(road)               # fill small gaps inside
 
 plt.figure(figsize=(9, 6))
